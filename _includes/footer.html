@@ -1,0 +1,14 @@
+<footer class="footer-site">
+  <div class="container">
+    <div class="row">
+
+        <ul class="social-icons">
+          {% for medium in site.data.settings.social %}
+            <li><a href="{{ medium.link }}" target="_blank"><i class="fa fa-{{ medium.name }}"></i></a></li>
+          {% endfor %}
+        </ul>
+        <p>2017 © Calibre Studio. All Right Reserved.</p>
+
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,22 @@
+#-------------------------------
+# Featured Clients: Maximum 8
+
+featured:
+- {name: 'Allied', image: 'https://picsum.photos/300/300', link: 'https://www.google.com'}
+- {name: 'Amazing Asia', image: 'https://picsum.photos/300/300', link: ''}
+- {name: 'Atoll Hideaway', image: 'https://picsum.photos/300/300', link: ''}
+- {name: 'Coca Cola', image: 'https://picsum.photos/300/300', link: ''}
+- {name: 'Delco', image: 'https://picsum.photos/300/300', link: ''}
+- {name: 'Department of Higher Education', image: 'https://picsum.photos/300/300', link: ''}
+- {name: 'Eco Print', image: 'https://picsum.photos/300/300', link: ''}
+- {name: 'Family Protection Authority', image: 'https://picsum.photos/300/300', link: ''}
+
+more:
+- {name: '', image: 'https://picsum.photos/300/300', link: ''}
+- {name: '', image: '', link: ''}
+- {name: '', image: '', link: ''}
+- {name: '', image: '', link: ''}
+- {name: '', image: '', link: ''}
+- {name: '', image: '', link: ''}
+- {name: '', image: '', link: ''}
+- {name: '', image: '', link: ''}

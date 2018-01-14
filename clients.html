@@ -1,0 +1,34 @@
+---
+layout: default
+title: Clients
+---
+
+<div class="section grid-portfolio">
+  <div class="container">
+
+    <div class="row">
+      <div class="grid-gallery columns-4">
+        {% for item in site.data.clients.featured %}
+          <a href="{{ item.link }}">
+            <div class="grid-item">
+              <img src="{{ item.image }}" alt="{{ item.name }}">
+            </div>
+          </a>
+        {% endfor %}
+      </div>
+
+      <p class="loadmore"><span class="js-loadmore">view more</span></p>
+
+      <div class="js-more-items grid-gallery-more-items">
+        {% for item in site.data.clients.more %}
+          <a href="{{ item.link }}">
+            <div class="grid-item">
+              <img src="{{ item.image }}" alt="{{ item.name }}">
+            </div>
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</div>

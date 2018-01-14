@@ -1,0 +1,31 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Portfolio', url: '', page_url: '/'}
+- {name: 'About', url: 'about.html', page_url: '/about.html'}
+- {name: 'Services', url: 'services.html', page_url: '/services.html'}
+- {name: 'Clients', url: 'clients.html', page_url: '/clients.html'}
+- {name: 'Contact', url: 'contact.html', page_url: '/contact.html'}
+
+#-------------------------------
+# Social Links Section
+
+social:
+- {name: 'facebook', url: ''}
+- {name: 'instagram', url: ''}
+- {name: 'behance', url: ''}
+
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  #description: 'Portfolio website of Calibre Studio, a graphics design and print studio based in Male', Maldives'
+  #rel-author: 'https://plus.google.com/u/0/#'
+  #rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+google-analytics-ua: ''

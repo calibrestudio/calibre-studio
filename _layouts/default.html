@@ -1,0 +1,57 @@
+---
+---
+
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <meta name="description" content="{{ site.data.settings.seo.description }}">
+    <!-- <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
+    <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}"> -->
+
+    <title>
+      {% if page.title == "Portfolio" %}
+        {{ site.title }}
+      {% else %}
+        {{ page.title }} | {{ site.title }}
+      {% endif %}
+    </title>
+
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="{{ url }}/assets/css/vendor.css">
+
+    <link rel="stylesheet" href="{{ url }}/assets/css/main.css">
+
+    <script src="{{ url }}/assets/js/vendor/modernizr.js"></script>
+  </head>
+
+  <body class="vmenu">
+    <!--[if IE]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Loader -->
+    <div id="mask"><div class="loader-minimal"></div></div>
+
+    <!-- header -->
+    {% include header.html %}
+
+    {{ content }}
+
+    <!-- footer -->
+    {% include footer.html %}
+
+    <!-- Google Analytics -->
+    {% include analytics.html %}
+
+    <script src="{{ url }}/assets/js/vendor.js"></script>
+
+    <script src="{{ url }}/assets/js/plugins.js"></script>
+
+    <script src="{{ url }}/assets/js/main.js"></script>
+  </body>
+</html>
