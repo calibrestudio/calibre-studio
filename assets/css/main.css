@@ -14838,9 +14838,14 @@ form .btn {
   left: -20px;
 }
 
+.grid-item img {
+  border: 0.5px solid #c5c5c599;
+  padding: 8px;
+}
+
 @media (min-width: 768px) {
   .grid-item {
-    padding: 20px;
+    padding: 10px;
     width: 50%;
   }
   .columns-3 .grid-item {

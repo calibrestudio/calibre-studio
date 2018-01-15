@@ -2,21 +2,21 @@
 # Featured Clients: Maximum 8
 
 featured:
-- {name: 'Allied', image: 'https://picsum.photos/300/300', link: 'https://www.google.com'}
-- {name: 'Amazing Asia', image: 'https://picsum.photos/300/300', link: ''}
-- {name: 'Atoll Hideaway', image: 'https://picsum.photos/300/300', link: ''}
-- {name: 'Coca Cola', image: 'https://picsum.photos/300/300', link: ''}
-- {name: 'Delco', image: 'https://picsum.photos/300/300', link: ''}
-- {name: 'Department of Higher Education', image: 'https://picsum.photos/300/300', link: ''}
-- {name: 'Eco Print', image: 'https://picsum.photos/300/300', link: ''}
-- {name: 'Family Protection Authority', image: 'https://picsum.photos/300/300', link: ''}
+- {name: 'Allied', image: '/assets/images/clients/Allied.jpg', link: 'https://www.allied.mv'}
+- {name: 'Amazing Asia', image: '/assets/images/clients/Amazing-Asia.jpg', link: ''}
+- {name: 'Atoll Hideaway', image: '/assets/images/clients/Atoll-Hideaway.jpg', link: ''}
+- {name: 'Coca Cola', image: '/assets/images/clients/Coca-Cola.jpg', link: ''}
+- {name: 'Delco', image: '/assets/images/clients/Delco.jpg', link: ''}
+- {name: 'Department of Higher Education', image: '/assets/images/clients/Department-of-Higher-Education.jpg', link: ''}
+- {name: 'Eco Print', image: '/assets/images/clients/Eco-Print.jpg', link: ''}
+- {name: 'Family Protection Authority', image: '/assets/images/clients/Family-Protection-Authority.jpg', link: ''}
 
 more:
-- {name: '', image: 'https://picsum.photos/300/300', link: ''}
-- {name: '', image: '', link: ''}
-- {name: '', image: '', link: ''}
-- {name: '', image: '', link: ''}
-- {name: '', image: '', link: ''}
-- {name: '', image: '', link: ''}
-- {name: '', image: '', link: ''}
-- {name: '', image: '', link: ''}
+- {name: 'Ayady', image: 'assets/images/clients/Ayady.jpg', link: ''}
+- {name: 'Highrise', image: 'assets/images/clients/Highrise.jpg', link: ''}
+- {name: 'Islamic University Maldives', image: 'assets/images/Clients/Islamic-Universirty-Maldives.jpg', link: ''}
+- {name: 'Island Destination', image: 'assets/images/clients/Island-Destination.jpg', link: ''}
+- {name: 'Ismail Niyaz', image: 'assets/images/clients/Ismail-Niyaz.jpg', link: ''}
+- {name: 'IT-Techs', image: 'assets/images/clients/IT-Techs.jpg', link: ''}
+- {name: 'Jaya', image: 'assets/images/clients/Jaya.jpg', link: ''}
+- {name: 'Kuda Richard', image: 'assets/images/clients/Kuda-Richard.jpg', link: ''}
