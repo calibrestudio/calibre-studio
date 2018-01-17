@@ -3,20 +3,42 @@
 
 featured:
 - {name: 'Allied', image: '/assets/images/clients/Allied.jpg', link: 'https://www.allied.mv'}
-- {name: 'Amazing Asia', image: '/assets/images/clients/Amazing-Asia.jpg', link: ''}
-- {name: 'Atoll Hideaway', image: '/assets/images/clients/Atoll-Hideaway.jpg', link: ''}
-- {name: 'Coca Cola', image: '/assets/images/clients/Coca-Cola.jpg', link: ''}
-- {name: 'Delco', image: '/assets/images/clients/Delco.jpg', link: ''}
-- {name: 'Department of Higher Education', image: '/assets/images/clients/Department-of-Higher-Education.jpg', link: ''}
-- {name: 'Eco Print', image: '/assets/images/clients/Eco-Print.jpg', link: ''}
-- {name: 'Family Protection Authority', image: '/assets/images/clients/Family-Protection-Authority.jpg', link: ''}
+- {name: 'Amazing Asia', image: '/assets/images/clients/Amazing-Asia.jpg', link: 'https://www.amazingasiatravels.com/'}
+- {name: 'Atoll Hideaway', image: '/assets/images/clients/Atoll-Hideaway.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'Coca Cola', image: '/assets/images/clients/Coca-Cola.jpg', link: 'http://mv.coca-cola.com/en/home/'}
+- {name: 'Delco', image: '/assets/images/clients/Delco.jpg', link: 'http://www.delcomaldives.com/'}
+- {name: 'Department of Higher Education', image: '/assets/images/clients/Department-of-Higher-Education.jpg', link: 'http://www.dhe.gov.mv/'}
+- {name: 'Eco Print', image: '/assets/images/clients/Eco-Print.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'Family Protection Authority', image: '/assets/images/clients/Family-Protection-Authority.jpg', link: 'http://fpa.gov.mv/dh/'}
 
 more:
-- {name: 'Ayady', image: 'assets/images/clients/Ayady.jpg', link: ''}
-- {name: 'Highrise', image: 'assets/images/clients/Highrise.jpg', link: ''}
-- {name: 'Islamic University Maldives', image: 'assets/images/Clients/Islamic-Universirty-Maldives.jpg', link: ''}
-- {name: 'Island Destination', image: 'assets/images/clients/Island-Destination.jpg', link: ''}
-- {name: 'Ismail Niyaz', image: 'assets/images/clients/Ismail-Niyaz.jpg', link: ''}
-- {name: 'IT-Techs', image: 'assets/images/clients/IT-Techs.jpg', link: ''}
-- {name: 'Jaya', image: 'assets/images/clients/Jaya.jpg', link: ''}
-- {name: 'Kuda Richard', image: 'assets/images/clients/Kuda-Richard.jpg', link: ''}
+- {name: 'Ayady', image: 'assets/images/clients/Ayady.jpg', link: 'https://ayady.mv/'}
+- {name: 'Highrise', image: 'assets/images/clients/Highrise.jpg', link: 'http://www.highriseint.com/home'}
+- {name: 'Islamic University Maldives', image: 'assets/images/Clients/Islamic-Universirty-Maldives.jpg', link: 'https://ium.edu.mv/'}
+- {name: 'Island Destination', image: 'assets/images/clients/Island-Destination.jpg', link: 'https://www.islandsdestination.com/'}
+- {name: 'Ismail Niyaz', image: 'assets/images/clients/Ismail-Niyaz.jpg', link: 'http://www.ismailniyaz.com/'}
+- {name: 'IT-Techs', image: 'assets/images/clients/IT-Techs.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'Jaya', image: 'assets/images/clients/Jaya.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'Kuda Richard', image: 'assets/images/clients/Kuda-Richard.jpg', link: 'https://www.facebook.com/Kudarichardphotography/'}
+- {name: 'Lintel', image: 'assets/images/clients/Lintel.jpg', link: 'https://www.facebook.com/pg/lintel.investments/'}
+- {name: 'Lucious', image: 'assets/images/clients/Lucious.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'Magnay', image: 'assets/images/clients/Magnay.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'Ministry of Environment', image: 'assets/images/clients/Ministry-of-Environment.jpg', link: 'http://www.environment.gov.mv/v2/en/'}
+- {name: 'MPAO', image: 'assets/images/clients/MPAO.jpg', link: 'http://www.pension.gov.mv/dv#'}
+- {name: 'MQA', image: 'assets/images/clients/MQA.jpg', link: 'http://www.mqa.gov.mv/'}
+- {name: 'NDMC', image: 'assets/images/clients/NDMC.jpg', link: 'http://ndmc.gov.mv/'}
+- {name: 'Ocean Retreat', image: 'assets/images/clients/Ocean-Retreat.jpg', link: 'http://www.oceanretreatandspa.com/'}
+- {name: 'Sea Marc', image: 'assets/images/clients/Sea-Marc.jpg', link: 'http://seamarc.com/'}
+- {name: 'Shafeeq & Masthoor LLP', image: 'assets/images/clients/Shafeeq-&-Masthoor-LLP.jpg', link: 'https://shafeeqmasthoor.wordpress.com/author/shafeeqmasthoor/'}
+- {name: 'Sky Biz', image: 'assets/images/clients/Sky-Biz.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'TCL', image: 'assets/images/clients/TCL.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'The Island Chief', image: 'assets/images/clients/The-Island-Cheif.jpg', link: 'http://www.theislandchief.com/'}
+- {name: 'Timber House', image: 'assets/images/clients/Timber-House.jpg', link: 'http://www.timberhouse.com.mv/'}
+- {name: 'Trav Maldives', image: 'assets/images/clients/Trav-Maldives.jpg', link: 'https://travmaldives.com/'}
+- {name: 'Travel-Center-Maldives', image: 'assets/images/clients/Travel-Center-Maldives.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'TUUIS', image: 'assets/images/clients/TUUIS.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'UNDP', image: 'assets/images/clients/UNDP.jpg', link: 'http://www.mv.undp.org/'}
+- {name: 'Viliroa', image: 'assets/images/clients/Vili-Roa.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'WHO', image: 'assets/images/clients/WHO.jpg', link: 'http://www.who.int/countries/mdv/en/'}
+- {name: 'Xylo', image: 'assets/images/clients/Xylo.jpg', link: 'http://calibre.studio/clients/'}
+- {name: 'Zippo', image: 'assets/images/clients/Zippo.jpg', link: 'http://calibre.studio/clients/'}
