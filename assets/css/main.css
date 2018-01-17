@@ -14841,7 +14841,17 @@ form .btn {
 .grid-item img {
   border: 0.5px solid #c5c5c599;
   padding: 8px;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
+
+.grid-item img:hover {
+  border: 0.5px solid #c5c5c599;
+  padding: 8px;
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+
 
 @media (min-width: 768px) {
   .grid-item {
