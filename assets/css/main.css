@@ -3793,6 +3793,10 @@ tbody.collapse.show {
   text-decoration: none;
 }
 
+.navbar-brand img {
+  height: 100px;
+}
+
 .navbar-nav {
   display: -webkit-box;
   display: -ms-flexbox;
