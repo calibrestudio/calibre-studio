@@ -2437,6 +2437,11 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   width: 100%;
 }
 
+.image-services img {
+  height: 100px;
+  width: 100px;
+}
+
 @media (min-width: 576px) {
   .form-inline label {
     display: -webkit-box;

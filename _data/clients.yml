@@ -14,7 +14,7 @@ featured:
 more:
 - {name: 'Ayady', image: 'assets/images/clients/Ayady.jpg', link: 'https://ayady.mv/'}
 - {name: 'Highrise', image: 'assets/images/clients/Highrise.jpg', link: 'http://www.highriseint.com/home'}
-- {name: 'Islamic University Maldives', image: 'assets/images/Clients/Islamic-Universirty-Maldives.jpg', link: 'https://ium.edu.mv/'}
+- {name: 'Islamic University Maldives', image: 'assets/images/clients/Islamic-Universirty-Maldives.jpg', link: 'https://ium.edu.mv/'}
 - {name: 'Island Destination', image: 'assets/images/clients/Island-Destination.jpg', link: 'https://www.islandsdestination.com/'}
 - {name: 'Ismail Niyaz', image: 'assets/images/clients/Ismail-Niyaz.jpg', link: 'http://www.ismailniyaz.com/'}
 - {name: 'IT-Techs', image: 'assets/images/clients/IT-Techs.jpg', link: 'http://calibre.studio/clients/'}
