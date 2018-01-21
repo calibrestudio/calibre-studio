@@ -306,6 +306,12 @@ function countdownComingSoon() {
 (function ($) {
 
     $(window).on('load', function () {
+        /* SIDEBAR MENU */
+        $('body.vmenu .navbar-toggler').on('click', function(event) {
+            event.preventDefault();
+            $('body').toggleClass('menu-visible');
+        });
+
         /*----------------------------------------------
                          L O A D E R
         ------------------------------------------------*/
