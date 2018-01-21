@@ -10,7 +10,7 @@ title: Clients
       <div class="grid-gallery columns-4">
         {% for item in site.data.clients.featured %}
           <a href="{{ item.link }}">
-            <div class="grid-item">
+            <div class="grid-item client-item">
               <img src="{{ item.image }}" alt="{{ item.name }}">
             </div>
           </a>
@@ -22,7 +22,7 @@ title: Clients
       <div class="js-more-items grid-gallery-more-items">
         {% for item in site.data.clients.more %}
           <a href="{{ item.link }}">
-            <div class="grid-item">
+            <div class="grid-item client-item">
               <img src="{{ item.image }}" alt="{{ item.name }}">
             </div>
           </a>

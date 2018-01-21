@@ -1,14 +1,14 @@
 #-------------------------------
 # Featured Projects: Maximum 8
 featured:
-- {title: 'Project 1', category: 'graphic', image: '/assets/img/demo/portfolio/portfolio1.jpg', link: '/projects/project1.html'}
-- {title: 'Project 1', category: 'branding', image: '/assets/img/demo/portfolio/portfolio2.jpg', link: '/projects/project1.md'}
-- {title: 'Project 1', category: 'branding', image: '/assets/img/demo/portfolio/portfolio3.jpg', link: '/projects/project1.md'}
-- {title: 'Project 1', category: 'graphic', image: '/assets/img/demo/portfolio/portfolio4.jpg', link: '/projects/project1.md'}
-- {title: 'Project 1', category: 'graphic', image: '/assets/img/demo/portfolio/portfolio5.jpg', link: '/projects/project1.md'}
-- {title: 'Project 1', category: 'packaging', image: '/assets/img/demo/portfolio/portfolio6.jpg', link: '/projects/project1.md'}
-- {title: 'Project 1', category: 'web', image: '/assets/img/demo/portfolio/portfolio7.jpg', link: '/projects/project1.md'}
-- {title: 'Project 1', category: 'graphic', image: '/assets/img/demo/portfolio/portfolio8.jpg', link: '/projects/project1.md'}
+- {title: 'Project 1', category: 'graphic', image: '/assets/images/demo/portfolio/portfolio1.jpg', link: '/projects/project1.html'}
+- {title: 'Project 1', category: 'branding', image: '/assets/images/demo/portfolio/portfolio2.jpg', link: '/projects/project1.md'}
+- {title: 'Project 1', category: 'branding', image: '/assets/images/demo/portfolio/portfolio3.jpg', link: '/projects/project1.md'}
+- {title: 'Project 1', category: 'graphic', image: '/assets/images/demo/portfolio/portfolio4.jpg', link: '/projects/project1.md'}
+- {title: 'Project 1', category: 'graphic', image: '/assets/images/demo/portfolio/portfolio5.jpg', link: '/projects/project1.md'}
+- {title: 'Project 1', category: 'packaging', image: '/assets/images/demo/portfolio/portfolio6.jpg', link: '/projects/project1.md'}
+- {title: 'Project 1', category: 'web', image: '/assets/images/demo/portfolio/portfolio7.jpg', link: '/projects/project1.md'}
+- {title: 'Project 1', category: 'graphic', image: '/assets/images/demo/portfolio/portfolio8.jpg', link: '/projects/project1.md'}
 
 more:
 - {title: 'Project 1', category: 'graphic', image: 'https://picsum.photos/300/300', link: '/projects/project1.md'}
