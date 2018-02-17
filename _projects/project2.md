@@ -1,14 +1,14 @@
 ---
 layout: project
-title: Aneh Design
-meta: Berk is a multidiciplinary bullshit
-category: graphic
-client: envato
+title: Island Destination Identity
+meta: Island Destination Logo/Branding and Identity design.
+category: branding
+client: Island Destination
 link: project1.md
 thumbnail_img: /assets/images/demo/portfolio/portfolio2.jpg
-project_img_one:
-project_img_two:
-project_img_three:
+project_img_one: /assets/images/projects/island-destination/ID_0.jpg
+project_img_two: /assets/images/projects/island-destination/ID_1.jpg
+project_img_three: /assets/images/projects/island-destination/ID_2.jpg
 ---
 
-Berk is a multidiciplinary bullshit
+Island Destination Logo/Branding and Identity design.
