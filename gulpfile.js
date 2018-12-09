@@ -1,10 +1,10 @@
 var gulp = require('gulp');
+var cssnano = require('gulp-cssnano');
 
-function defaultTask(cb) {
-    // place code for your default task here
-    cb();
-  }
-  
-  exports.default = defaultTask;
+gulp.task('css', function() {
+    return gulp.src('./main.css')
+        .pipe(cssnano())
+        .pipe(gulp.dest('./out'));
+});
 
   
