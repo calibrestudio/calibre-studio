@@ -1,0 +1,9 @@
+{
+  "name": "calibre-studio",
+  "version": "1.0.0",
+  "description": "Agency site of Calibre Studio",
+  "author": "Hussain Fazaal",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
