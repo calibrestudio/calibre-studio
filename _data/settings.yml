@@ -12,9 +12,9 @@ menu:
 # Social Links Section
 
 social:
-- {name: 'facebook', url: ''}
-- {name: 'instagram', url: ''}
-- {name: 'behance', url: ''}
+- {name: 'facebook', url: 'https://www.facebook.com/Calibrestudio/'}
+- {name: 'instagram', url: 'https://www.instagram.com/calibre.studio/'}
+- {name: 'behance', url: 'https://www.behance.net/Calibrestudio'}
 
 # SEO Section
 
