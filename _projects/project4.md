@@ -5,7 +5,7 @@ meta: Calendar design and printing service provided for Maldives Pension and Adm
 category: print
 client: MPAO
 link: project1.md
-thumbnail_img: /assets/images/projects/thumbnail.jpg
+thumbnail_img: /assets/images/projects/mpao-16/thumbnail.jpg
 project_img_one: /assets/images/projects/mpao-16/DSC_0231.jpg
 project_img_two: /assets/images/projects/mpao-16/DSC_0293.jpg
 project_img_three: assets/images/projects/mpao-16/DSC_0305.jpg
