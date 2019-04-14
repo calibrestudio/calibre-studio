@@ -1,7 +1,7 @@
 ---
 layout: project
 title: ECO Identity
-meta: Berk is a multidiciplinary bullshit
+meta: Logo and brand identity for ECO 
 category: branding
 client: Eco
 link: project1.md
